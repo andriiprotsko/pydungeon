@@ -1,7 +1,7 @@
-# python
-
-<b>Python Dungeon</b>
+# Python Dungeon
 
 200+ rows text game on python
 
-v.0.1
+
+version 0.1
+- just started
