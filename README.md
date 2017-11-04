@@ -1,6 +1,6 @@
 # python
 
-<b>Python Dungeon<b>
+<b>Python Dungeon</b>
 
 200+ rows text game on python
 
