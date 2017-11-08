@@ -5,16 +5,21 @@ from sys import exit
 beast = True
 dragon = True
 sword = False
+hig = {"beast": True, "dragon": True, "sword":False}
 
 #rooms
 
 #room01
 
 def room01():
+    print("------------------------------------------------------------")
     print("You are in a big room with massive walls and mud everywhere.")
     print("It's really dark, but you can see three doors.")
-    print("They lead east, north and west. What do you do?")
-
+    print("They lead east, north and west.")
+    print("------------------------------------------------------------")
+    print("")
+    print("What do you do?")
+    
     choice = input("> ");
 
     if "west" in choice:
